@@ -1,0 +1,13 @@
+body{
+  background-image: url('paginasK/corea.jpg');
+  background-repeat: no-repeat;
+    background-attachment: fixed;
+  background-size: cover;
+  color:black;
+  margin: 5%;
+}
+.izquierda {
+  border-radius: 20%;
+  width: 20vw;
+  height: 40vh;
+}
