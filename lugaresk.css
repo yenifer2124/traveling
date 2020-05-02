@@ -1,0 +1,12 @@
+body{
+  background-image: url('paginasK/lugar.jpg');
+     background-repeat: no-repeat;
+       background-attachment: fixed;
+     background-size: cover;
+     
+}
+h2, p, li{
+
+
+}
+h2{font-family: Lobster, cursive;}
