@@ -1,0 +1,28 @@
+body{
+  background-image: url('paginasK/amistad.gif');
+     background-repeat: no-repeat;
+       background-attachment: fixed;
+     background-size: cover;
+  margin: 5%;
+}
+h1{
+
+  font-family: lobster,cursive;
+}
+.viajes{
+  text-align: justify;
+}
+.amis{
+        display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.izquierda{
+  width: 40vw;
+  height: 50vh;
+}
+.in{
+  width: 40vw;
+  height: 50vh;
+}
