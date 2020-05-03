@@ -1,0 +1,15 @@
+body{
+  background-image: url('butanimages/mm.jpg');
+     background-repeat: no-repeat;
+       background-attachment: fixed;
+     background-size: cover;
+
+}
+
+h2{font-family: Lobster, cursive;}
+.paro ,.thim, ,.phue{
+
+	text-align:justify;
+
+	margin-right: 12%;
+}
