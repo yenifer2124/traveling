@@ -1,0 +1,84 @@
+html,body{
+	margin: 0;
+	padding: 0;
+	background-image: url("inicio/ume.gif");
+	height: 20px;
+	  background-repeat: no-repeat;
+		background-attachment: fixed;
+  background-size: cover;
+}
+
+#titulo{
+	position:absolute;
+	top:30px;
+	left:30px;
+	width:700px;
+	height:60px;
+	font-family: Lobster, cursive;
+	font-size:40px;
+	text-align:CENTER;
+	margin-left: 24%;
+	line-height:60px;
+color:#000;
+	}
+	.circular--square {
+	  border-radius: 50%;
+		width: 20vw;
+		height: 40vh;
+	}
+#corea, #italia,#butan{
+	font-family: lobster,cursive;
+}
+	.container{
+    margin-top: -80px;;
+	  width: 100vw;
+		height: 100vh;
+		margin-right: 10px;
+	  display: flex;
+	  justify-content: space-around;
+	  align-items: center;
+	  flex-wrap: wrap;
+
+	}
+	.izquierda{
+		width: 30vw;
+		height: 40vh;
+
+	}
+	.pais{
+	  width: 300px;
+	  height: 300px;
+	  font-size: 50px;
+	  text-align: center;
+	  font-weight: bold;
+
+	}
+	.texto, .texto2, .texto3{
+		text-align:justify;
+		margin-left: 12%;
+		margin-right: 10%;
+	}
+	.banner{
+		width: 1000px;
+		height: 200px;
+		margin: auto;
+    margin-top: 30%;
+		margin-right: 12%;
+		background-size: 100% 100%;
+
+		animation-name: banner;
+		animation-duration: 10s;
+		animation-iteration-count: infinite;
+
+	}
+		@keyframes banner{
+			0%, 30%{
+				background-image:	url(banner/sal.jpg);
+			}
+			35%, 65%{
+				background-image: url(banner/viajera.jpg);
+			}
+			70%, 100%{
+				background-image: url(banner/rutina.jpg);
+			}
+		}
