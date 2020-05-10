@@ -1,0 +1,26 @@
+body
+{	  background-image: url('imagesitalia/fon.jpg');
+    background-repeat: no-repeat;
+      background-attachment: fixed;
+    background-size: cover;
+    margin: 5%;
+
+  }
+h2,h3{
+  font-family: lobster,cursive;
+}
+.historia, .historia1{
+  text-align: justify;
+}
+.historial{
+  width: 80vw;
+  height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.izquierda{
+  width: 40vw;
+  height: 40vh;
+}
