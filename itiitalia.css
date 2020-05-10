@@ -1,0 +1,9 @@
+body{
+  background-image: url('imagesitalia/iti.jpg');
+     background-repeat: no-repeat;
+       background-attachment: fixed;
+     background-size: cover;
+
+}
+
+h1{font-family: Lobster, cursive;}
