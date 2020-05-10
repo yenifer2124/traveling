@@ -1,0 +1,13 @@
+body{
+  background-image: url('imagesitalia/res.jpg');
+     background-repeat: no-repeat;
+       background-attachment: fixed;
+     background-size: cover;
+  margin:5%;
+}
+
+h2{font-family: Lobster, cursive;}
+p{
+  text-align: justify;
+
+}
